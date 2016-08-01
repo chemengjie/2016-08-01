@@ -6,3 +6,6 @@ mvn exec:java -Dexec.mainClass="com.hand.Manager" -Dexec.args="arg0 arg1 arg2"
 mvn exec:java -Dexec.mainClass="com.hand.Client" -Dexec.args="arg0 arg1 arg2"
 接收到的文件命名为“new_test.txt”
 exam3
+mvn exec:java -Dexec.mainClass="com.hand.App" -Dexec.args="arg0 arg1 
+xml文件为xml.xml
+json文件为hand.json
